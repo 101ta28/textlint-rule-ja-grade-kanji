@@ -13,6 +13,7 @@
   },
   "files": [
     "dist",
+    "docs",
     "README.md",
     "LICENSE"
   ],
@@ -28,8 +29,19 @@
     "kanji",
     "education"
   ],
-  "author": "",
+  "author": "101ta28",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/101ta28/textlint-rule-ja-grade-kanji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/101ta28/textlint-rule-ja-grade-kanji/issues"
+  },
+  "homepage": "https://github.com/101ta28/textlint-rule-ja-grade-kanji#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "commonjs",
   "engines": {
     "node": ">=20"
