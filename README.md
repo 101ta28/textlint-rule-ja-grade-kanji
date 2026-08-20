@@ -6,6 +6,9 @@
 
 ## インストール
 
+textlintを初めて使う場合は、Node.jsの準備から検査結果の読み方まで説明した[はじめての漢字チェック](docs/getting-started.md)を参照してください。
+[npmで公開しているパッケージ](https://www.npmjs.com/package/textlint-rule-ja-grade-kanji)は、次のコマンドでインストールできます。
+
 ```bash
 npm install --save-dev textlint textlint-rule-ja-grade-kanji
 ```
